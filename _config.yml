@@ -9,6 +9,12 @@ description: "Bryan's website."
 
 # Team names, titles and social links
 people:
+- name: 
+  pic: 
+  position: 
+  social:
+
+people:
 - name: Bryan Wee
   pic: 1
   position: Postdoctoral Research Fellow, University of Edinburgh
