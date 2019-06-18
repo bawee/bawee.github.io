@@ -9,15 +9,15 @@ description: "Bryan's website."
 
 # Team names, titles and social links
 people:
-- name: 
-  pic: 
-  position: 
+- name:
+  pic:
+  position:
   social:
 
 people:
 - name: Bryan Wee
   pic: 1
-  position: Postdoctoral Research Fellow, University of Edinburgh
+  position: Postdoctoral Research Fellow<br>University of Edinburgh
   social:
     - title: twitter
       url: http://www.twitter.com/bawee
@@ -35,7 +35,7 @@ social:
     url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
+  - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
@@ -44,7 +44,7 @@ social:
 address:
   - line: Ashworth Laboratories
   - line: King's Buildings, Edinburgh, United Kingdom
-  
+
 # Build settings
 markdown: kramdown
 permalink: pretty
