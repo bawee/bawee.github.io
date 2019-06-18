@@ -866,6 +866,7 @@ body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
 
+/* Bryan added this line to center my mugshot in team.html */
 .col-centered{
     float: none;
     margin: 0 auto;
