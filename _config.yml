@@ -3,7 +3,7 @@ baseurl:
 
 # Site settings
 title: Bryan's Website
-email: 
+email:
 description: "Bryan's website."
 
 
@@ -17,7 +17,7 @@ people:
 people:
 - name: Bryan Wee
   pic: 1
-  position: Postdoctoral Research Fellow<br>University of Edinburgh
+  position: Postdoctoral Research Fellow<br>Epidemiology Research Group (Epigroup)<br>University of Edinburgh
   social:
     - title: twitter
       url: http://www.twitter.com/bawee
