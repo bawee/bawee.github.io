@@ -41,8 +41,12 @@ social:
   #   url: http://bitbucket.org/jekyll
   - title: linkedin
     url: http://www.linkedin.com/in/bawee
+  - title: google
+    url: https://scholar.google.co.uk/citations?user=Ua8vr-QAAAAJ&hl=en&oi=ao
   - title: github
     url: http://github.com/bawee
+  - title: envelope
+    url: mailto:b.wee@ed.ac.uk
 
 # Postal address (add as many lines as necessary)
 address:
