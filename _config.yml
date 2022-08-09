@@ -17,7 +17,7 @@ people:
 people:
 - name: Bryan Wee
   pic: 1
-  position: Postdoctoral Research Fellow<br>Epidemiology Research Group (Epigroup)<br>University of Edinburgh
+  position: Core Scientist<br>The Roslin Institute<br>The University of Edinburgh
   social:
     - title: twitter
       url: http://www.twitter.com/bawee
@@ -50,8 +50,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Ashworth Laboratories
-  - line: King's Buildings, Edinburgh, United Kingdom
+  - line: The Roslin Institute
+  - line: Edinburgh, Scotland, United Kingdom
 
 # Build settings
 markdown: kramdown
